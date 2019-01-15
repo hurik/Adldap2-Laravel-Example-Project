@@ -85,7 +85,7 @@ return [
                 |
                 */
 
-                'schema' => Adldap\Schemas\ActiveDirectory::class,
+                'schema' => Adldap\Schemas\OpenLDAP::class,
 
                 /*
                 |--------------------------------------------------------------------------
